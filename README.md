@@ -16,7 +16,7 @@ This document is the accumulation of my learnings on fat loss and building muscl
       - [Body fat percentage](#body-fat-percentage)
         - [Goal weight from body fat percentage](#goal-weight-from-body-fat-percentage)
         - [How to measure body fat percentage](#how-to-measure-body-fat-percentage)
-        - [Determing body fat percentage goal](#determing-body-fat-percentage-goal)
+        - [Determining body fat percentage goal](#determining-body-fat-percentage-goal)
         - [Determining goal weight](#determining-goal-weight)
     - [Setting up your diet and workout - CICO](#setting-up-your-diet-and-workout---cico)
       - [CI for fat loss](#ci-for-fat-loss)
@@ -24,6 +24,7 @@ This document is the accumulation of my learnings on fat loss and building muscl
         - [Modifying your diet for weight loss](#modifying-your-diet-for-weight-loss)
         - [Tips for modifying your diet](#tips-for-modifying-your-diet)
         - [Tracking your diet](#tracking-your-diet)
+        - [Diet/Calorie trackers](#dietcalorie-trackers)
       - [CO for fat loss](#co-for-fat-loss)
         - [TDEE](#tdee)
         - [What is my TDEE?](#what-is-my-tdee)
@@ -118,7 +119,7 @@ This document is the accumulation of my learnings on fat loss and building muscl
 3. Body fat caliper
 4. DEXA Scan
 
-##### Determing body fat percentage goal
+##### Determining body fat percentage goal
 
 - [insert picture of different bodyfat percentages]
 
@@ -156,7 +157,7 @@ This document is the accumulation of my learnings on fat loss and building muscl
 - Each pound of bodyfat is approximately 3500 calories. 3500 calories / 7 days a week = 500 calories per day
 - If your daily CI is 500 calories less than your daily CO, you will lose 1 pound per week. This is a "calorie deficit" of 500 calories
   - The greater your calorie deficit, the faster your weight loss
-- This can be accomplished in a variety of ways
+- A calorie deficit can be accomplished in a variety of ways
   - decreasing your portion sizes
   - removing a meal
   - eating voluminous but low calorie foods
@@ -181,6 +182,9 @@ This document is the accumulation of my learnings on fat loss and building muscl
 - How can you tell how many calories your eating?
   - Most food items have a nutrition label. The calories/serving are typically in the largest font and is the first thing you see.
     - Make sure you fully understand how much is each serving. A food scale can help with this
+
+##### Diet/Calorie trackers
+
 - It may be helpful to use a diet/calorie tracker to understand your diet.
   - You can get an understanding of caloric intake and macro/micro nutrients.
   - Diet/calorie trackers often have solid numbers to aim for with regards to your nutrition
@@ -194,8 +198,8 @@ This document is the accumulation of my learnings on fat loss and building muscl
 ##### TDEE
 
 - TDEE stands for Total Daily Energy Expenditure. It is often used interchangebly with "maintenance/maintenance calories" or CO
-- TDEE consists of your basal metabolic expenditure (BME) and energy expenditure due to activity
-  - BME is a fancy way of saying how much energy your body uses for daily functioning. Typically, larger people have a higher BME
+- TDEE consists of your basal metabolic expenditure (BMR) and energy expenditure due to activity
+  - BMR is a fancy way of saying how much energy your body uses for daily functioning. Typically, larger people have a higher BMR
 
 ##### What is my TDEE?
 
@@ -227,7 +231,7 @@ This document is the accumulation of my learnings on fat loss and building muscl
 
 ##### Increasing your TDEE
 
-- Having higher amounts of muscle may increase your BME - however, increasing muscle mass takes a significant amount of time
+- Having higher amounts of muscle may increase your BMR - however, increasing muscle mass takes a significant amount of time
 - Increasing your level of activity is the easiest way to increase your TDEE. There are a variety of ways to accomplish this
   - Use stairs instead of escalators/elevators
   - Walk to a location instead of driving
@@ -254,7 +258,7 @@ This document is the accumulation of my learnings on fat loss and building muscl
 - Make sure to include adequate amounts of rest and stretching - this helps to avoid pain and injury
 - Stay hydrated! Dehydration can make you dizzy and tired, making the workout difficult
 - Aerobic (Cardio) activities typically burn more calories per workout
-- Anaerobic (muscle building) typically increase your BME
+- Anaerobic (muscle building) typically increase your BMR
 
 ### Fat loss summary
 
@@ -307,7 +311,7 @@ This document is the accumulation of my learnings on fat loss and building muscl
   - Fat is important for hormone production
   - It is recommended to get around 15% - 30% of your caloric intake from fat
 - Carbohydrates
-  - Carbohydrates are a source of quicky energy for your body. This is particularly import in explosive activities like weightlifting.
+  - Carbohydrates are a source of quickly energy for your body. This is particularly import in explosive activities like weightlifting.
   - Once you have determined your protein and fat needs, fill the rest of your daily calories with carbohydrates.
 
 ###### Micronutrients
