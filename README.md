@@ -15,8 +15,6 @@ This document is the accumulation of my learnings on fat loss and building muscl
 - Some people want to perform athletic feats their body can't currently do
 - Some people just want to be healthier
 
-<!-- ### body transformation summary ### -->
-
 ## Fat Loss
 
 - Fat loss allows you to reveal your physique!
@@ -262,14 +260,81 @@ This document is the accumulation of my learnings on fat loss and building muscl
     - Sometimes it's hard to get enough protein in your diet - use protein shakes to increase your intake!
 - Fat
   - Fat is important for hormone production
-  - It is recommended to get at least 40g of fat in your diet
+  - It is recommended to get around 15% - 30% of your caloric intake from fat
 - Carbohydrates
+  - Carbohydrates are a source of quicky energy for your body. This is particularly import in explosive activities like weightlifting.
+  - Once you have determined your protein and fat needs, fill the rest of your daily calories with carbohydrates.
 
-#### CO for building muscle
+###### Micronutrients
 
-##### What is the best workout?
+- Macronutrients help with daily body functioning. A diet with properly tuned macro nutrients will usually provide proper amounts of micronutrients.
+- Using diet trackers like myfitnesspal can help with tracking your micronutrients. More restrictive diets like keto or veganism will require more attention to micronutrient intake.
+
+###### Supplements
+
+- It is recommended to get as much of the macro and micro nutrients from food as possible - sometimes this can be difficult.
+- Supplements often can help fill the gaps.
+- Caffeine is useful for providing energy throughout the workout
+- Creatine assists in ATP creation - it is one of the most widely researched lifting supplements
+- Protein shakes often help getting enough protein intake.
+- Multivitamins help fill the gaps in your micro nutrients
+
+#### Muscle building fundamentals
+
+- Muscle is built when enough of a stimulus is applied to tear the muscles down.
+- Given proper nutrient intake and adequate rest, muscles will rebuild to better handle the stimulus
+- This creates a cycle
+  - Apply a stimulus to break down muscle
+  - Build more muscle
+  - Apply more stimulus to break down muscle
+  - Repeat
+
+##### Resistance training
+
+- The stimulus to build muscle is typically through resistance training
+- Resistance training is done by forcing the muscle to work against some load or resistance
+- There are many ways to create the resistance
+  - Bodyweight training (Calisthenics)
+  - Weightlifting
+  - Resistance bands
+  - Sandbags
+  - etc.
+
+##### Progressive overload
+
+- The cycle of increasing the stimulus to build more muscle is called progressive overload.
+- The stimulus can be any number of variables
+  - Number of sets
+  - Number of reps per set
+  - Amount of resistance applied
+  - Amount of time under resistance
+- Progressive overloading also allows you to track your progress over time.
+
+##### Workout plans
+
+- One of the easiest ways to build muscle is to follow a workout plan.
+  - There are a variety of plans to follow online for any skill level
+  - You can also join a gym or get a personal trainer to tailor a workout to your needs
+  - Going through the plan helps you understand how to make your own workouts
+
+- If you want to look like a boxer, follow a boxer workout plan. If you want to look like a ballet dancer, follow a ballet dancer workout plan etc.
+
+- The best workout is the one you will stick to!
+  - Some workouts benefit different muscles at different rates - this does not matter if you're unwilling to stick to the workout
+  - If you find a muscle lacking, but you don't enjoy the given workout for that muscle, find a substitute workout. There are many ways to apply a load to a muscle
+
+- Example workout plans
+  - Stronglifts 5x5
+  - Jim Wendler’s 5/3/1
+  - nSuns LP
+  - Reddit Bodywieght fitness Recommended Routine
 
 ### Build muscle summary
+
+- CI >= CO to build muscle
+- Protein is very important! Get 0.8g-1.0g per pound of bodyweight
+- Apply resistance training and progressive overloading to build muscle
+- Pick a workout plan you like!
 
 ## Note about mental health during body transformation
 
@@ -283,3 +348,14 @@ This document is the accumulation of my learnings on fat loss and building muscl
 
 ## High level summary
 
+- Body transformation is typically done by losing fat and building muscle
+- Fat loss
+  - Determine your goal weight
+  - Calories In < Calories Out (CI < CO) is the governing equation for weight loss. The greater the calorie deficit, the faster the weight loss
+  - Eat less to decrease your CI
+  - Be more active to increase you CO
+- Build muscle
+  - CI >= CO to build muscle
+  - Protein is very important! Get 0.8g-1.0g per pound of bodyweight
+  - Apply resistance training and progressive overloading to build muscle
+  - Pick a workout plan you like!
