@@ -2,6 +2,51 @@
 
 This document is the accumulation of my learnings on fat loss and building muscle
 
+## Table of Contents
+
+- [Body-transformation-101](#body-transformation-101)
+  - [Table of Contents](#table-of-contents)
+  - [Body transformation overview](#body-transformation-overview)
+    - [What is a body transformation](#what-is-a-body-transformation)
+    - [Why do a body transformation](#why-do-a-body-transformation)
+  - [Fat Loss](#fat-loss)
+    - [Setting your weight goal](#setting-your-weight-goal)
+      - [BMI](#bmi)
+        - [Goal weight from BMI](#goal-weight-from-bmi)
+      - [Body fat percentage](#body-fat-percentage)
+        - [Goal weight from body fat percentage](#goal-weight-from-body-fat-percentage)
+        - [How to measure body fat percentage](#how-to-measure-body-fat-percentage)
+        - [Determing body fat percentage goal](#determing-body-fat-percentage-goal)
+        - [Determining goal weight](#determining-goal-weight)
+    - [Setting up your diet and workout - CICO](#setting-up-your-diet-and-workout---cico)
+      - [CI for fat loss](#ci-for-fat-loss)
+        - [What is the best diet?](#what-is-the-best-diet)
+        - [Modifying your diet for weight loss](#modifying-your-diet-for-weight-loss)
+        - [Tips for modifying your diet](#tips-for-modifying-your-diet)
+        - [Tracking your diet](#tracking-your-diet)
+      - [CO for fat loss](#co-for-fat-loss)
+        - [TDEE](#tdee)
+        - [What is my TDEE?](#what-is-my-tdee)
+        - [Small plug](#small-plug)
+        - [Increasing your TDEE](#increasing-your-tdee)
+        - [What is the best workout?](#what-is-the-best-workout)
+        - [Workout tips](#workout-tips)
+    - [Fat loss summary](#fat-loss-summary)
+  - [Build Muscle](#build-muscle)
+    - [CICO for building muscle](#cico-for-building-muscle)
+      - [Diet for building muscle](#diet-for-building-muscle)
+        - [Macro and Micro nutrients](#macro-and-micro-nutrients)
+          - [Macro nutrients](#macro-nutrients)
+          - [Micronutrients](#micronutrients)
+          - [Supplements](#supplements)
+      - [Muscle building fundamentals](#muscle-building-fundamentals)
+        - [Resistance training](#resistance-training)
+        - [Progressive overload](#progressive-overload)
+        - [Workout plans](#workout-plans)
+    - [Build muscle summary](#build-muscle-summary)
+  - [Note about mental health during body transformation](#note-about-mental-health-during-body-transformation)
+  - [High level summary](#high-level-summary)
+
 ## Body transformation overview
 
 ### What is a body transformation
@@ -24,9 +69,9 @@ This document is the accumulation of my learnings on fat loss and building muscl
   - Have an adequate workout plan
   - Stay consistent
 
-### Setting your weight loss goal
+### Setting your weight goal
 
-- How much weight should I lose?
+- How do I determine my goal weight?
   - Whatever the doctor says
   - BMI
   - Body fat percentage
